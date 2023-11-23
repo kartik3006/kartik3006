@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kartik
+- 👋 Hi, I’m @karthik
 - 👀 I’m interested in Networking
 - 🌱 I’m currently Completed CCNA now looking for a job,Seeking a position in network engineering.
 - 📫 linkedin.com/in/karthi-krish-42a466295
